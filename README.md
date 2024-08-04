@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=deebff&height=150&section=header&text=%20&fontSize=40" style="width: 100%;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=deebff&height=120&section=header&text=%20&fontSize=40" style="width: 100%;" />
 
 <h2>🛠 Tech Stacks</h2>
 
@@ -24,5 +24,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeyeyh" />
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=deebff&height=100&section=footer" style="width: 100%;" />
