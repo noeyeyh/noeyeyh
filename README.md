@@ -14,8 +14,15 @@
 <h2>👩‍💻 Experience</h2>
 <ul>
   <li>홍익대학교 (2021.03 ~ )</li>
-  <li>대학생 IT 연합 프로젝트 동아리 UMC 5기 web (2023.09 ~ 2024.02)</li>
-  <li>신촌 연합 IT 창업 동아리 CEOS • 19기 FE (2024.03 ~ 2024.08)</li>
+  <li>대학생 IT 연합 프로젝트 동아리 <a href="https://github.com/HIUMC"> UMC</a> 5기 web (2023.09 ~ 2024.02)</li>
+  <li>신촌 연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 19기 FE (2024.03 ~ 2024.08)</li>
+</ul>
+
+<h2>📝 Projects</h2>
+<ul>
+  <li>아날로그 감성으로 전하는 비동기 편지 서비스, <strong>낭만고양이</strong> FE (2023.12 ~ 2024.03)</li>
+  <li>꿀 떨어지는 하루를 채우는 위치 기반 커플 기록 서비스, <strong>LUBEE</strong> FE (2024.04 ~ 2024.08)</li>
+  <li>건강한 발걸음을 위한 국내 플로깅 코스 추천 및 기록 서비스, <strong>FootLog</strong> PM, FE (2024.04 ~ )</li>
 </ul>
 
 <h2></h2>
