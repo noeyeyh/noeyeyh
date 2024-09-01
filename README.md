@@ -25,9 +25,4 @@
   <li>건강한 발걸음을 위한 국내 플로깅 코스 추천 및 기록 서비스, <strong>FootLog</strong> PM, FE (2024.04 ~ )</li>
 </ul>
 
-<h2></h2>
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeyeyh" />
-  </a>
-</p>
+
