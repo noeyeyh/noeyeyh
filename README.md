@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledComponents&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindCss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot"/>
 </p>
 
 <h2>👩‍💻 Experience</h2>
@@ -16,7 +19,7 @@
   <li>홍익대학교 (2021.03 ~ )</li>
   <li>대학생 IT 연합 프로젝트 동아리 <a href="https://github.com/HIUMC">UMC</a> • 5기 web (2023.09 ~ 2024.02)</li>
   <li>신촌 연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 19기 FE (2024.03 ~ 2024.08)</li>
-  <li>대학생 IT 연합 프로젝트 동아리 <a href="https://github.com/HIUMC">UMC</a> • 7기 spring (2024.09 ~ )</li>
+  <li>대학생 IT 연합 프로젝트 동아리 <a href="https://github.com/HIUMC">UMC</a> • 7기 springboot (2024.09 ~ )</li>
 </ul>
 
 <h2>📝 Projects</h2>
