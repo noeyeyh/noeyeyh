@@ -27,6 +27,7 @@
   <li>아날로그 감성으로 전하는 비동기 편지 서비스, <strong>낭만고양이</strong> FE (2023.12 ~ 2024.03)</li>
   <li>꿀 떨어지는 하루를 채우는 위치 기반 커플 기록 서비스, <strong>LUBEE</strong> FE (2024.04 ~ 2024.08)</li>
   <li>건강한 발걸음을 위한 국내 플로깅 코스 추천 및 기록 서비스, <strong>FootLog</strong> PM, FE (2024.04 ~ )</li>
+  <li>세상의 모든 밈코인을 한곳에서 모아보는 종합 서비스, <strong>MemeSphere</strong> BE (2024.12 ~ )</li>
 </ul>
 
 
