@@ -16,18 +16,19 @@
 
 <h2>👩‍💻 Experience</h2>
 <ul>
-  <li>홍익대학교 (2021.03 ~ )</li>
-  <li>대학생 IT 연합 프로젝트 동아리 <a href="https://github.com/HIUMC">UMC</a> • 5기 web (2023.09 ~ 2024.02)</li>
-  <li>신촌 연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 19기 FE (2024.03 ~ 2024.08)</li>
-  <li>대학생 IT 연합 프로젝트 동아리 <a href="https://github.com/HIUMC">UMC</a> • 7기 springboot (2024.09 ~ )</li>
+  <li>홍익대학교 <sub>(2021.03 ~ )</sub></li>
+  <li>대학생 IT 연합 프로젝트 동아리 <a href="https://github.com/HIUMC">UMC</a> • 5기 web <sub>(2023.09 ~ 2024.02)</sub></li>
+  <li>신촌 연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 19기 FE <sub>(2024.03 ~ 2024.08)</sub></li>
+  <li>대학생 IT 연합 프로젝트 동아리 <a href="https://github.com/HIUMC">UMC</a> • 7기 springboot <sub>(2024.09 ~ 2025.02)</sub></li>
 </ul>
 
 <h2>📝 Projects</h2>
 <ul>
-  <li>아날로그 감성으로 전하는 비동기 편지 서비스, <strong>낭만고양이</strong> FE (2023.12 ~ 2024.03)</li>
-  <li>꿀 떨어지는 하루를 채우는 위치 기반 커플 기록 서비스, <strong>LUBEE</strong> FE (2024.04 ~ 2024.08)</li>
-  <li>건강한 발걸음을 위한 국내 플로깅 코스 추천 및 기록 서비스, <strong>FootLog</strong> PM, FE (2024.04 ~ )</li>
-  <li>세상의 모든 밈코인을 한곳에서 모아보는 종합 서비스, <strong>MemeSphere</strong> BE (2024.12 ~ )</li>
+  <li>아날로그 감성으로 전하는 비동기 편지 서비스, <strong>낭만고양이</strong> FE <sub>(2023.12 ~ 2024.03)</sub></li>
+  <li>꿀 떨어지는 하루를 채우는 위치 기반 커플 기록 서비스, <strong>LUBEE</strong> FE <sub>(2024.04 ~ 2024.08)</sub></li>
+  <li>건강한 발걸음을 위한 국내 플로깅 코스 추천 및 기록 서비스, <strong>FootLog</strong> PM, FE <sub>(2024.04 ~ )</sub></li>
+  <li>세상의 모든 밈코인을 한곳에서 모아보는 종합 서비스, <strong>MemeSphere</strong> BE <sub>(2024.12 ~ 2025.02)</sub></li>
+  <li>와인을 이지하게 즐기는 주류 큐레이션 및 테이스팅 노트 서비스, <strong>Drinki G</strong> FE <sub>(2025.03 ~ )</sub></li>
 </ul>
 
 
