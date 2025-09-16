@@ -16,7 +16,6 @@
 
 <h2>👩‍💻 Experience</h2>
 <ul>
-  <li>홍익대학교 <sub>(2021.03 ~ )</sub></li>
   <li>대학생 IT 연합 프로젝트 동아리 <a href="https://github.com/HIUMC">UMC</a> • 5기 web <sub>(2023.09 ~ 2024.02)</sub></li>
   <li>신촌 연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 19기 FE <sub>(2024.03 ~ 2024.08)</sub></li>
   <li>대학생 IT 연합 프로젝트 동아리 <a href="https://github.com/HIUMC">UMC</a> • 7기 springboot <sub>(2024.09 ~ 2025.02)</sub></li>
