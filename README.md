@@ -48,6 +48,6 @@
 <h2>📜 Certifications</h2>
 <ul>
   <li>SQLD, 한국데이터산업진흥원</li>
-  <li>정보처리기사, 한국산업인력공단</sub></li>
+  <li>정보처리기사, 한국산업인력공단</li>
 </ul>
 <br/>
